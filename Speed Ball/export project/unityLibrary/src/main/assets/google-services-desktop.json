@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "430616893734",
+    "project_id": "amongcubes",
+    "storage_bucket": "amongcubes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430616893734:android:3f068d28cbced503a889e7",
+        "android_client_info": {
+          "package_name": "com.RedBalls.AmongCubes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430616893734-qmbjnr8t1p495ijufvrm2vtvrr0b7e7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.RedBalls.AmongCubes",
+            "certificate_hash": "798c638aee5d5f0074cf6dcc95dd6d5b64ff847e"
+          }
+        },
+        {
+          "client_id": "430616893734-m9678mfscemaj8n1c94v7ss5m33s7r0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtDeE_ikwEKfkBOcyezB-FgL-DBXwumSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430616893734-m9678mfscemaj8n1c94v7ss5m33s7r0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2535477519379646~8423583644"
+    }
+  ],
+  "configuration_version": "1"
+}
